@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBAtVFXOsXU0MslsClG7jm9JS53m2rd8cwKNj2vWm3ebjIVThMIm8EIiEjeybnbzc6EvKnlDCgq1Q3Cn7gCr3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\KevinTree1\\KevinTree1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.18.2\\ilrepack.lib.msbuild.task.2.0.18.2.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\yamldotnet\\13.1.0\\yamldotnet.13.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
